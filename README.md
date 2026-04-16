@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/MoatasemGamal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Moatasem+Gamal;Full-Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Moatasem+Gamal;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -72,7 +72,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**
 
