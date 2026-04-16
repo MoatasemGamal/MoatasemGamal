@@ -38,7 +38,7 @@
 - 🔭 Currently building [**cloud.wakeel.agency**](https://cloud.wakeel.agency) — managed hosting for PHP apps (WordPress, WooCommerce, Laravel) built on top of cloud infrastructure for scale & performance without headache
 - 💡 Passionate about **Web Development**, **NLP**, **Linux**, **Open Source**, **Cloud Computing** & **AI**
 - 💼 Open to **work**, **collaboration** & **freelance** opportunities
-- 💬 Ask me about **PHP/Laravel**, **Python/Flask**, **Linux**, **DevOps**, **NLP**
+- 💬 Ask me about **PHP/Laravel**, **Linux**, **Cloud**
 - 🌍 Based in **Egypt**
 - ⚡ Fun fact: Half my ideas start with *"What if we simplify this?"*
 
