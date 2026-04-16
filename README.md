@@ -40,7 +40,7 @@
 - 💼 Open to **work**, **collaboration** & **freelance** opportunities
 - 💬 Ask me about **PHP/Laravel**, **Python/Flask**, **Linux**, **DevOps**, **NLP**
 - 🌍 Based in **Egypt**
-- ⚡ Fun fact: Half my ideas start with *"What if we simplify this?"* — and sometimes I build anything from anything, like a CRM on top of markdown files in Logseq
+- ⚡ Fun fact: Half my ideas start with *"What if we simplify this?"*
 
 ---
 
